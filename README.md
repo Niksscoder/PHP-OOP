@@ -8,8 +8,8 @@
 I'm working with XAMPP nad you recommended for mac
 
 ### Setup XAMPP for linux 
-```$chmod u+x ~/folder/xampp-linux-x64-7.3.3-1-installer.run
-    
-   $sudo ~/folder/xampp-linux-x64-7.3.3-1-installer.run
+```
+$chmod u+x ~/folder/xampp-linux-x64-7.3.3-1-installer.run
+$sudo ~/folder/xampp-linux-x64-7.3.3-1-installer.run
 ```
 
