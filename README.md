@@ -6,7 +6,10 @@
 
 ## Initial setup Instructors
 I'm working with XAMPP nad you recommended for mac
-### Setup Python 
-''' python3 --version
 
-'''
+### Setup XAMPP for linux 
+```$chmod u+x ~/folder/xampp-linux-x64-7.3.3-1-installer.run
+    
+   $sudo ~/folder/xampp-linux-x64-7.3.3-1-installer.run
+```
+
