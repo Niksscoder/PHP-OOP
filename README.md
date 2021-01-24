@@ -5,7 +5,7 @@
 - Solving some tasks
 
 ## Initial setup Instructors
-I'm working with XAMPP nad you recommended for mac
+I'm working with XAMPP and you recommended for mac or linux
 
 ### Setup XAMPP for linux 
 ```
