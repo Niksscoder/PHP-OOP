@@ -1,7 +1,9 @@
 # PHP-OOP
 ### Will be:
 - Labs from University
-- OOP structures
+- OOP structures such as:
+  - inheritance
+  - polymorphizm ...
 - Solving some tasks
 
 ## Initial setup Instructors
